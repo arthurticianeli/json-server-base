@@ -7,5 +7,27 @@
       "age": 38,
       "id": 1
     }
+  ],
+  "openToWork": [
+    {
+      "openToWork": true,
+      "id": 1
+    },
+    {
+      "openToWork": true,
+      "id": 2
+    }
+  ],
+  "stack": [
+    {
+      "stack": "Html, CSS, JS, TS e React",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "stack": "Html, CSS, JS, TS e React",
+      "userId": 1,
+      "id": 2
+    }
   ]
 }
